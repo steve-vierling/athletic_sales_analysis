@@ -31,9 +31,9 @@ Code language: Python (python)\
 athletic_sales_analysis/\  
 ├─athletic_sales_analysis.ipynb  
 ├─README.md  
-└─Resources  
-    └─athletic_sales_2020.csv 
-    └─athletic_sales_2021.csv 
+└─Resources   
+    └─athletic_sales_2020.csv   
+    └─athletic_sales_2021.csv   
 
 ## License  
 This project is licensed under Steve Vierling Programming, Ltd.  
