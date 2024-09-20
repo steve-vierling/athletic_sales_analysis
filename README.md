@@ -1,7 +1,7 @@
 # athletic_sales_analysis
 Module 5 Challenge
 
-# Analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over 2 years. Next, determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, which day and week had the highest sales for women's athletic footwear 
+## Analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over 2 years. Next, determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, which day and week had the highest sales for women's athletic footwear 
 
 ## Table of Contents
 
@@ -29,11 +29,11 @@ The project follows the following structure:
 
 Code language: Python (python)\  
 athletic_sales_analysis/\  
-├──athletic_sales_analysis.ipynb  
-├──README.md  
-└─ Resources  
-   └─athletic_sales_2020.csv 
-   └─athletic_sales_2021.csv 
+├─athletic_sales_analysis.ipynb  
+├─README.md  
+└─Resources  
+    └─athletic_sales_2020.csv 
+    └─athletic_sales_2021.csv 
 
 ## License  
 This project is licensed under Steve Vierling Programming, Ltd.  
